@@ -1,6 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+Hello! Welcome to my website, All about Kenneth Jee! 
+This website is all about my experience throughout my life. ![This image shows the first part of my website](img/website screenshot.jpg)
+Thank you for visiting my website and I hope you have learned a lot about me!
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+> Written with [StackEdit](https://stackedit.io/).
